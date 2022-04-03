@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tallnut.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tallnutanim0000" x="2" y="2" width="445" height="636" frameX="0" frameY="-26" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0001" x="2" y="2" width="445" height="636" frameX="0" frameY="-26" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0002" x="452" y="2" width="445" height="641" frameX="0" frameY="-21" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0003" x="902" y="2" width="435" height="641" frameX="-5" frameY="-21" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0004" x="1342" y="2" width="435" height="655" frameX="-5" frameY="-7" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0005" x="1342" y="2" width="435" height="655" frameX="-5" frameY="-7" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0006" x="2" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0007" x="2" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0008" x="2" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0009" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0010" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0011" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0012" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0013" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0014" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0015" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0016" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0017" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0018" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0019" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0020" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0021" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0022" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0023" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0024" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0025" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0026" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0027" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0028" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0029" x="882" y="662" width="435" height="637" frameX="-5" frameY="-26" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0030" x="1322" y="662" width="445" height="636" frameX="0" frameY="-26" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0031" x="452" y="2" width="445" height="641" frameX="0" frameY="-21" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0032" x="452" y="2" width="445" height="641" frameX="0" frameY="-21" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0033" x="1342" y="2" width="435" height="655" frameX="-5" frameY="-7" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0034" x="1342" y="2" width="435" height="655" frameX="-5" frameY="-7" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0035" x="2" y="1330" width="435" height="662" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0036" x="2" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0037" x="2" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0038" x="2" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0039" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0040" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0041" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0042" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0043" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0044" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0045" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0046" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0047" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0048" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0049" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0050" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0051" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0052" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0053" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0054" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0055" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0056" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0057" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0058" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+	<SubTexture name="tallnutanim0059" x="442" y="662" width="435" height="663" frameX="-5" frameY="0" frameWidth="445" frameHeight="663"/>
+</TextureAtlas>

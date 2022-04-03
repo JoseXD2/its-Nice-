@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pot.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="potanim0000" x="2" y="2" width="498" height="285" frameX="0" frameY="-8" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0001" x="2" y="2" width="498" height="285" frameX="0" frameY="-8" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0002" x="2" y="2" width="498" height="285" frameX="0" frameY="-8" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0003" x="505" y="2" width="486" height="290" frameX="-6" frameY="-3" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0004" x="505" y="2" width="486" height="290" frameX="-6" frameY="-3" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0005" x="505" y="2" width="486" height="290" frameX="-6" frameY="-3" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0006" x="2" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0007" x="2" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0008" x="2" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0009" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0010" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0011" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0012" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0013" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0014" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0015" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0016" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0017" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0018" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0019" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0020" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0021" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0022" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0023" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0024" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0025" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0026" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0027" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0028" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+	<SubTexture name="potanim0029" x="493" y="297" width="486" height="293" frameX="-6" frameY="0" frameWidth="498" frameHeight="293"/>
+</TextureAtlas>
