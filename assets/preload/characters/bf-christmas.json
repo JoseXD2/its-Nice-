@@ -3,19 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-1
-			],
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				12,
-				-6
+				21,
+				-8
 			],
 			"fps": 24,
 			"anim": "singLEFT",
@@ -25,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
+				-25,
 				-50
 			],
 			"fps": 24,
@@ -36,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				-49,
+				47
 			],
 			"fps": 24,
 			"anim": "singUP",
@@ -47,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-38,
-				-7
+				-31,
+				-9
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
@@ -58,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				12,
-				24
+				18,
+				-7
 			],
 			"fps": 24,
 			"anim": "singLEFTmiss",
@@ -69,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-11,
-				-19
+				-26,
+				-58
 			],
 			"fps": 24,
 			"anim": "singDOWNmiss",
@@ -80,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				-49,
+				47
 			],
 			"fps": 24,
 			"anim": "singUPmiss",
@@ -92,7 +81,7 @@
 			"loop": false,
 			"offsets": [
 				-30,
-				21
+				-8
 			],
 			"fps": 24,
 			"anim": "singRIGHTmiss",
@@ -100,19 +89,52 @@
 			"name": "BF NOTE RIGHT MISS"
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
 				-3,
-				5
+				-1
 			],
+			"anim": "idle",
 			"fps": 24,
-			"anim": "hey",
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1096,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF HEY"
+			"name": "BF dies0"
+		},
+		{
+			"offsets": [
+				-24,
+				212
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				-21,
+				210
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfChristmas",
+	"image": "characters/bf-christmas",
 	"position": [
 		0,
 		350
@@ -120,13 +142,13 @@
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		101,
+		168,
+		196
 	],
 	"camera_position": [
 		0,
-		0
+		-60
 	],
 	"sing_duration": 4,
 	"scale": 1
